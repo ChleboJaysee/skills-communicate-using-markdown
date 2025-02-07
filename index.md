@@ -5,8 +5,14 @@
 ``` javascript
 var myVar = "Hello, world!"
 ```
+- [ ] turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+  
 
 Changes made:
 just added two Headlines 
 and the GitHub Image
 and a line of javascript
+and a task list
